@@ -1,0 +1,8 @@
+### IntelliJ IDEA ###
+out/
+/src/ait/classWork/
+!**/src/main/**/out/
+!**/src/test/**/out/
+.idea
+lib
+*.iml
